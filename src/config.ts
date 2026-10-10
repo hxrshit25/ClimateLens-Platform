@@ -11,7 +11,7 @@ export const APP_TAGLINE = 'Understanding a Changing Planet';
  */
 export const DEVELOPER_GITHUB_USERNAME = 'hxrshit25';
 export const DEVELOPER_GITHUB_URL = 'https://github.com/hxrshit25';
-export const PROJECT_REPOSITORY_URL = 'https://github.com/hxrshit25/ClimateLens';
+export const PROJECT_REPOSITORY_URL = 'https://github.com/hxrshit25/ClimateLens-Platform';
 
 export const PROJECT_OWNER_NAME = 'Baiju Kumar';
 export const PROJECT_OWNER = PROJECT_OWNER_NAME;

@@ -149,7 +149,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
           <div className="text-center sm:text-left text-slate-300">
             <span>© 2026 {PROJECT_NAME} · </span>
             <a
-              href={PROJECT_REPOSITORY_URL}
+              href="https://github.com/hxrshit25/ClimateLens-Platform"
               target="_blank"
               rel="noopener noreferrer"
               className="text-cyan-400 hover:text-cyan-300 font-medium underline underline-offset-2 transition-colors"
